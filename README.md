@@ -1,4 +1,4 @@
-##Tool Calling Agent with Structured Output
+#Tool Calling Agent with Structured Output
 This notebook walks through how to ensure that a tool-calling agent always returns its output in a structured format. The structured output is essential when the output needs to be passed on to downstream software or users. This is done by adding a third node that formats the response before returning it to the user.
 
 Graph Structure
